@@ -1,0 +1,44 @@
+0 Bangus
+1 Big Head Carp
+2 Black Sea Sprat
+3 Black Spotted Barb
+4 Catfish
+5 Catla
+6 Climbing Perch
+7 CommonCarp
+8 Fourfinger Threadfin
+9 Freshwater Eel
+10 Gilt-Head Bream
+11 Glass Perchlet
+12 Goby
+13 Gold Fish
+14 Gourami
+15 Grass Carp
+16 Green Spotted Puffer
+17 Hourse Mackerel
+18 Indo-Pacific Tarpon
+19 Jaguar Gapote
+20 Janitor Fish
+21 Knifefish
+22 Long-Snouted Pipefish
+23 Mori
+24 Mosquito Fish
+25 Mudfish
+26 Mullet
+27 Pangasius
+28 Perch
+29 Red Mullet
+30 Read Sea Bream
+31 Rohu
+32 Scat Fish
+33 Sea Bass
+34 Shrimp
+35 Silver Barb
+36 Silver Carp
+37 Silver Perch
+38 Snakehead
+39 Stripped Red Mullet
+40 Tenpounder
+41 Tilapia 
+42 Trout
+43 no_fish
