@@ -1,0 +1,12 @@
+COLLECTING DATA
+INTEGRATING THE DATA
+IMPORTING LIB
+IMAGE PRE- PROPROCES ->IMAGE AUG ON TRAIN DATA ->IMAGE NOISE ADDITION ON TRAIN DATA -> RESCALING
+Model building
+Model Compiling
+Model fitting -> Early stopping
+Testing
+Expirimenting -> Hyper-parameter tuning min_delta, patience, filters, units in dense layer, epochs in fitting, batch size in fitting, increasing dense layers
+Predicting
+Saving and loading
+Front end
