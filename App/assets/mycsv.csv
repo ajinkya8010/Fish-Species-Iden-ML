@@ -1,0 +1,45 @@
+ID,CommonName,ScientificName,Edible/NonEdible
+1,Bangus,Chanos chanos,Edible
+2,Big Head Carp,Hypophthalmichthys nobilis,Edible
+3,Black Sea Sprat,Clupeonella cultriventris,Edible
+4,Black Spotted Barb,Puntius filamentosus,Edible
+5,Catfish,Siluriformes,Edible
+6,Catla,Catla catla,Edible
+7,Climbing Perch,Anabas testudineus,Edible
+8,Common Carp,Cyprinus carpio,Edible
+9,Fourfinger Threadfin,Eleutheronema tetradactylum,Edible
+10,Freshwater Eel,Anguilla species,Edible
+11,Gilt-Head Bream,Sparus aurata,Edible
+12,Glass Perchlet,Ambassis species,Edible
+13,Goby,Gobiidae,Edible
+14,Goldfish,Carassius auratus,Non-Edible 
+15,Gourami,Trichogaster species,Edible
+16,Grass Carp,Ctenopharyngodon idella,Edible
+17,Green Spotted Puffer,Tetraodon nigroviridis,Non-edible 
+18,Horse Mackerel,Trachurus species,Edible
+19,Indo-Pacific Tarpon,Megalops cyprinoides,Edible
+20,Jaguar Guapote,Parachromis managuensis,Edible
+21,Janitor Fish,Pterygoplichthys disjunctivus,Non-Edible 
+22,Knifefish,Notopteridae,Edible
+23,Long-Snouted Pipefish,Syngnathus macropterygia,Edible
+24,Mori,Cirrhinus mrigala,Edible
+25,Mosquito Fish,Gambusia affinis,Non-Edible 
+26,Mudfish,Neoxhanna,Edible
+27,Mullet,Mugilidae,Edible
+28,Pangasius,Pangasianodon hypophthalmus,Edible
+29,Perch,Perca fluviatilis,Edible
+30,Red Mullet,Mullus barbatus,Edible
+31,Red Sea Bream,Pagrus major,Edible
+32,Rohu,Labeo rohita,Edible
+33,Scat Fish,Scatophagus argus,Edible
+34,Sea Bass,Centropristis striata,Edible
+35,Shrimp,Penaeus,Edible
+36,Silver Barb,Barbonymus gonionotus,Edible
+37,Silver Carp,Hypophthalmichthys molitrix,Edible
+38,Silver Perch,Bidyanus bidyanus,Edible
+39,Snakehead,Channidae,Non-edible 
+40,Striped Red Mullet,Mullus surmuletus,Edible
+41,Tenpounder,Elopidae,Edible
+42,Tilapia,Oreochromis niloticus,Edible
+43,Trout,Oncorhynchus mykiss,Edible
+44,No Fish,NA,

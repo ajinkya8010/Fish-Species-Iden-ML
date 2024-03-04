@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.children_vs_adult">
    <application
-        android:label="children_vs_adult"
+        android:label="Fishify"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

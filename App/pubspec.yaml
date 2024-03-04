@@ -1,4 +1,4 @@
-name: children_vs_adult
+name: Fishify
 description: A new Flutter project.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -31,11 +31,17 @@ dependencies:
   flutter:
     sdk: flutter
 
+
+
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  chat_gpt_sdk: ^2.2.5
+  dash_chat_2: ^0.0.18
   image_picker: ^0.8.6+4
   tflite: ^1.1.2
+  csv: ^5.1.1
+  cached_network_image: ^3.2.0
 
 dev_dependencies:
   flutter_test:

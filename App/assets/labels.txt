@@ -1,13 +1,13 @@
-0 Bangus
-1 Big Head Carp
-2 Black Sea Sprat
-3 Black Spotted Barb
-4 Catfish
-5 Catla
-6 Climbing Perch
-7 CommonCarp
-8 Fourfinger Threadfin
-9 Freshwater Eel
+00 Bangus
+01 Big Head Carp
+02 Black Sea Sprat
+03 Black Spotted Barb
+04 Catfish
+05 Catla
+06 Climbing Perch
+07 CommonCarp
+08 Fourfinger Threadfin
+09 Freshwater Eel
 10 Gilt-Head Bream
 11 Glass Perchlet
 12 Goby
